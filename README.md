@@ -9,6 +9,17 @@ designs on a BB/DE1. Record your prelab and in-lab work in your laboratory noteb
 lab instructor check your results after each part.
 
 ### Assignments
-* PreLab 1
-* PreLab 2
-* Twos Complement
+* PreLab 1  
+![](https://github.com/ShameenShetty/CSE-2441--Lab2-Basic_Adders_and_Subtractors/blob/master/PreLab1/PreLab1.png)
+
+
+
+* PreLab 2  
+![](https://github.com/ShameenShetty/CSE-2441--Lab2-Basic_Adders_and_Subtractors/blob/master/PreLab2/PreLab2.png)
+
+
+
+* Twos Complement  
+![](https://github.com/ShameenShetty/CSE-2441--Lab2-Basic_Adders_and_Subtractors/blob/master/Twos%20Complement/Twos%20Complement%20Circuit.png)
+
+
